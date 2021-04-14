@@ -1,5 +1,5 @@
 ## Music Player
-**An assignment of Web Programming, a course by Professor Ric Huang in NTU.** A pure HTML/CSS practice.
+**An assignment of Web Programming (2021 spring), a course by Professor Ric Huang in NTU.** A pure HTML/CSS practice.
 
 How it looks like:
 <p align="center">
