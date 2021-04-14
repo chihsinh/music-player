@@ -1,7 +1,7 @@
 ## Music Player
 **An assignment of Web Programming, a course by Professor Ric Huang in NTU.** A pure HTML/CSS practice.
 
-#### How it looks like
+How it looks like
 <p align="center">
   <img src="https://raw.githubusercontent.com/kanapki/music-player/master/screenshots/screenshot1.png" width="600">
 </p>
