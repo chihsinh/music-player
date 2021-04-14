@@ -1,0 +1,117 @@
+.button.back {
+	display: inline-block;
+  vertical-align: middle;
+  width: 74px;
+	height: 74px;
+	background-image: url(icons/back_b.png);
+	background-size: cover;
+	border-color: transparent;
+	border-radius: 100%;
+	cursor: pointer;
+
+}
+
+.button.back:hover {
+	background-image: url(icons/back_g.png);
+
+}
+
+#back {
+	display: inline-block;
+  	vertical-align: middle;
+}
+
+.button.play {
+  width: 74px;
+	height: 74px;
+	background-image: url(icons/play_b.png);
+	background-size: cover;
+	border-color: transparent;
+	border-radius: 100%;
+	cursor: pointer;
+	position: relative;
+	bottom: 25px;
+
+}
+
+.button.play:hover {
+	background-image: url(icons/pause_g.png);
+
+}
+
+.button.play:active {
+	background-image: url(icons/pause_b.png);
+
+}
+
+.button.previous {
+  width: 74px;
+	height: 74px;
+	background-image: url(icons/previous_b.png);
+	background-size: cover;
+	border-color: transparent;
+	border-radius: 100%;
+	cursor: pointer;
+	position: relative;
+	bottom: 25px;
+}
+
+.button.previous:hover {
+	background-image: url(icons/previous_g.png);
+
+}
+
+.button.next {
+  width: 74px;
+	height: 74px;
+	background-image: url(icons/next_b.png);
+	background-size: cover;
+	border-color: transparent;
+	border-radius: 100%;
+	cursor: pointer;
+	position: relative;
+	bottom: 25px;
+}
+
+.button.next:hover {
+	background-image: url(icons/next_g.png);
+
+}
+
+.center {
+	text-align: center;
+}
+
+.cover {
+	width: 700px;
+	/*height: 500px;*/
+	filter: contrast(0.7);
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 5px 4px 4px 0px rgba(0,0,0,0.5);
+	/*cursor: pointer;*/
+}
+
+/*
+.cover:hover {
+	width: 500px;
+	height: 500px;
+	box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.5);
+}*/
+
+.lyrics {
+	position: relative;
+	top: 40px;
+}
+
+hr {
+	position: relative;
+	bottom: 25px;
+}
+
+.text {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-weight: normal;
+	letter-spacing: 2px;
+}
