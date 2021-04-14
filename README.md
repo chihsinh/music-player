@@ -12,4 +12,5 @@ The icons change colors when the mouse hovers above. The lyrics scroll from righ
 </p>
 
 
-References: The sample album cover is a photo by <a href="https://unsplash.com/@rirri01?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rirri</a> on <a href="https://unsplash.com/s/photos/album-cover?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+### References: 
+The sample album cover is a photo by <a href="https://unsplash.com/@rirri01?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rirri</a> on <a href="https://unsplash.com/s/photos/album-cover?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
